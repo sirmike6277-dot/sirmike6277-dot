@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Mike 👋</h1>
+<h1 align="center">Hi, I'm Michael 👋</h1>
 <h3 align="center">Full-Stack Software Engineer · Mobile · Cloud Architect</h3>
 
 <p align="center">
@@ -7,8 +7,7 @@
 
 <p align="center">
   <a href="mailto:sirmike6277@gmail.com"><img src="https://img.shields.io/badge/Email-sirmike6277%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://YOUR-PORTFOLIO.com"><img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/ifeanyi-michael-n/"><img src="https://img.shields.io/badge/LinkedIn-Ifeanyi_Michael-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
 <p align="center">
@@ -164,7 +163,7 @@ Open to **senior full-stack, mobile, and platform roles** at product-led compani
   <a href="mailto:sirmike6277@gmail.com">
     <img src="https://img.shields.io/badge/📧_Start_a_conversation-2ea44f?style=for-the-badge&logoColor=white" alt="Email" />
   </a>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE">
+  <a href="https://www.linkedin.com/in/ifeanyi-michael-n/">
     <img src="https://img.shields.io/badge/💼_Connect_on_LinkedIn-0A66C2?style=for-the-badge&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
