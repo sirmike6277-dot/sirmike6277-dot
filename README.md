@@ -93,15 +93,13 @@ I'm a versatile software engineer who delivers **end-to-end products** — pixel
 
 ## 🌟 Featured Work
 
-> 📌 **Tip:** Pin your best 6 repositories on your profile so they show up here.
-
 <table>
 <tr>
 <td width="50%" valign="top">
 
 ### 🧳 Tripcali
-**Cross-platform travel app with payments & analytics**
-Production-grade mobile app built on Expo Router + TypeScript. Integrates Supabase auth/data, Stripe payments, PostHog product analytics, push notifications, and secure on-device storage. Ships to iOS, Android, and web from a single codebase.
+**Group travel booking & itinerary planning app**
+Production mobile app built on Expo Router + TypeScript. Trip discovery, booking with payment plans, group chat/DMs, itinerary planning, and an admin dashboard — backed by Supabase, Stripe, and PostHog. Ships to iOS, Android, and web from a single codebase.
 
 `Expo Router` `React Native` `TypeScript` `Supabase` `Stripe` `PostHog`
 
@@ -110,13 +108,13 @@ Production-grade mobile app built on Expo Router + TypeScript. Integrates Supaba
 </td>
 <td width="50%" valign="top">
 
-### 🚀 Your Next Featured Project
-**Short, punchy description of impact**
-Replace this placeholder with another production project — ideally one with clear business outcomes (users, revenue, performance wins).
+### 📦 OOH Media Pro
+**Full-stack SaaS ERP for Out-of-Home media agencies**
+Purchase orders, CRM, billboard inventory, invoicing, and multi-role approval workflows for outdoor advertising agencies. Real production metrics: **500+ billboards** and **$2M+ in revenue** tracked through the platform.
 
-`Next.js` `Node.js` `PostgreSQL` `AWS`
+`React` `Express` `Drizzle ORM` `Supabase` `PostgreSQL`
 
-[→ View Repository](#)
+*Private client project — details and a live walkthrough available on request.*
 
 </td>
 </tr>
