@@ -1,8 +1,9 @@
-<h1 align="center">Hi, I'm Michael 👋</h1>
-<h3 align="center">Full-Stack Software Engineer · Mobile · Cloud Architect</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C5CE7,100:00B4D8&height=220&section=header&text=Ifeanyi%20Michael&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=Full-Stack%20Engineer%20%C2%B7%20Mobile%20%C2%B7%20Cloud%20Architect&descAlignY=56&descSize=18&animation=fadeIn" width="100%" alt="header" />
+</p>
 
 <p align="center">
-  <em>Shipping production-grade products across web, mobile, and cloud — from idea to scale.</em>
+  <img src="https://readme-typing-svg.demolab.com/?font=Space+Grotesk&weight=500&size=20&pause=1200&color=6C5CE7&center=true&vCenter=true&width=680&lines=Shipping+production+apps+across+web%2C+mobile+%26+cloud;Full-stack+TypeScript+%C2%B7+React+Native+%C2%B7+Supabase+%C2%B7+AWS;Open+to+contract+and+full-time+engagements;Let%27s+build+something+great+together" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -11,8 +12,8 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sirmike6277-dot&style=for-the-badge&color=0A66C2&label=Profile+Views" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/Open_to-Contracts_%26_Full--Time-2ea44f?style=for-the-badge" alt="Availability" />
+  <img src="https://komarev.com/ghpvc/?username=sirmike6277-dot&style=for-the-badge&color=6C5CE7&label=Profile+Views" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Open_to-Contracts_%26_Full--Time-00B4D8?style=for-the-badge" alt="Availability" />
 </p>
 
 ---
@@ -77,16 +78,24 @@ I'm a versatile software engineer who delivers **end-to-end products** — pixel
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=sirmike6277-dot&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="GitHub Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sirmike6277-dot&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF" alt="Top Languages" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=sirmike6277-dot&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C5CE7&icon_color=6C5CE7" alt="GitHub Stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sirmike6277-dot&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C5CE7" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=sirmike6277-dot&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=sirmike6277-dot&theme=tokyonight&hide_border=true&background=0D1117&stroke=6C5CE7&ring=6C5CE7&fire=00B4D8&currStreakLabel=00B4D8" alt="GitHub Streak" />
 </p>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=sirmike6277-dot&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sirmike6277-dot/sirmike6277-dot/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sirmike6277-dot/sirmike6277-dot/output/github-contribution-grid-snake.svg" />
+    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/sirmike6277-dot/sirmike6277-dot/output/github-contribution-grid-snake.svg" width="100%" />
+  </picture>
 </p>
 
 ---
@@ -159,13 +168,17 @@ Open to **senior full-stack, mobile, and platform roles** at product-led compani
 
 <p align="center">
   <a href="mailto:sirmike6277@gmail.com">
-    <img src="https://img.shields.io/badge/📧_Start_a_conversation-2ea44f?style=for-the-badge&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/📧_Start_a_conversation-6C5CE7?style=for-the-badge&logoColor=white" alt="Email" />
   </a>
   <a href="https://www.linkedin.com/in/ifeanyi-michael-n/">
-    <img src="https://img.shields.io/badge/💼_Connect_on_LinkedIn-0A66C2?style=for-the-badge&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/💼_Connect_on_LinkedIn-00B4D8?style=for-the-badge&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 
 <p align="center">
   <sub>⭐ If you like what you see, consider starring some of my projects — it means a lot.</sub>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00B4D8,100:6C5CE7&height=120&section=footer" width="100%" alt="footer" />
 </p>
