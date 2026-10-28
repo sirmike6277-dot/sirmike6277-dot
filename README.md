@@ -1,184 +1,108 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C5CE7,100:00B4D8&height=220&section=header&text=Ifeanyi%20Michael&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=Full-Stack%20Engineer%20%C2%B7%20Mobile%20%C2%B7%20Cloud%20Architect&descAlignY=56&descSize=18&animation=fadeIn" width="100%" alt="header" />
+  <a href="https://linkmindhq.com"><img src="assets/banner.png" width="100%" alt="Ifeanyi Michael Nwabuisi, Founder of LinkMind. AI software, automation and AI video for businesses." /></a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Space+Grotesk&weight=500&size=20&pause=1200&color=6C5CE7&center=true&vCenter=true&width=680&lines=Shipping+production+apps+across+web%2C+mobile+%26+cloud;Full-stack+TypeScript+%C2%B7+React+Native+%C2%B7+Supabase+%C2%B7+AWS;Open+to+contract+and+full-time+engagements;Let%27s+build+something+great+together" alt="Typing SVG" />
+  <a href="https://linkmindhq.com"><img src="https://img.shields.io/badge/Visit_LinkMind-8F57FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit LinkMind" /></a>
+  <a href="https://www.linkedin.com/in/ifeanyi-michael-n/"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-8F57FF?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
+  <a href="mailto:sirmike6277@gmail.com"><img src="https://img.shields.io/badge/Email_me-8F57FF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me" /></a>
 </p>
 
-<p align="center">
-  <a href="mailto:sirmike6277@gmail.com"><img src="https://img.shields.io/badge/Email-sirmike6277%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/ifeanyi-michael-n/"><img src="https://img.shields.io/badge/LinkedIn-Ifeanyi_Michael-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-</p>
+<br />
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sirmike6277-dot&style=for-the-badge&color=6C5CE7&label=Profile+Views" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/Open_to-Contracts_%26_Full--Time-00B4D8?style=for-the-badge" alt="Availability" />
-</p>
+### About
 
----
+I'm Michael, founder of **[LinkMind](https://linkmindhq.com)**, a London based studio that builds AI software, business automation, AI ads and AI UGC videos for businesses.
 
-## 👨‍💻 About Me
+I build and run my own products, so I know what it takes to get software from an idea to something people actually use. If your team is stuck on spreadsheets, slow manual work or an app that never got finished, that's the kind of problem I like solving.
 
-I'm a versatile software engineer who delivers **end-to-end products** — pixel-perfect interfaces, scalable backends, and resilient cloud infrastructure. I partner with **startups, enterprises, and founding teams** to turn ambitious ideas into production systems that ship on time and scale with demand.
+<br />
 
-- 🚀 **Currently:** Building cross-platform mobile & web products with React Native, Next.js, and Supabase
-- 🎯 **Specialties:** Full-stack TypeScript · Mobile (iOS/Android) · Cloud architecture · API design
-- 💼 **Available for:** Freelance engagements · Full-time roles · Technical advisory · Fractional CTO
-- 🌍 **Working style:** Remote-first, async-friendly, comfortable across time zones
-- 📫 **Best way to reach me:** [sirmike6277@gmail.com](mailto:sirmike6277@gmail.com)
-
----
-
-## 🛠 Tech Stack
-
-<table>
-<tr>
-<td valign="top" width="25%">
-
-### 🎨 Frontend
-![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-
-</td>
-<td valign="top" width="25%">
-
-### 📱 Mobile
-![React Native](https://img.shields.io/badge/-React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Expo](https://img.shields.io/badge/-Expo-000020?style=flat-square&logo=expo&logoColor=white)
-![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
-![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-
-</td>
-<td valign="top" width="25%">
-
-### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
-
-</td>
-<td valign="top" width="25%">
-
-### ☁️ Cloud & Data
-![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
-</td>
-</tr>
-</table>
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=sirmike6277-dot&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C5CE7&icon_color=6C5CE7" alt="GitHub Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sirmike6277-dot&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C5CE7" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=sirmike6277-dot&theme=tokyonight&hide_border=true&background=0D1117&stroke=6C5CE7&ring=6C5CE7&fire=00B4D8&currStreakLabel=00B4D8" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sirmike6277-dot&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies" />
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sirmike6277-dot/sirmike6277-dot/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sirmike6277-dot/sirmike6277-dot/output/github-contribution-grid-snake.svg" />
-    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/sirmike6277-dot/sirmike6277-dot/output/github-contribution-grid-snake.svg" width="100%" />
-  </picture>
-</p>
-
----
-
-## 🌟 Featured Work
+### Products I've built
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🧳 Tripcali
-**Group travel booking & itinerary planning app**
-Production mobile app built on Expo Router + TypeScript. Trip discovery, booking with payment plans, group chat/DMs, itinerary planning, and an admin dashboard — backed by Supabase, Stripe, and PostHog. Ships to iOS, Android, and web from a single codebase.
+#### PrimpHub
+A beauty marketplace and salon platform that connects clients with beauty professionals. Clients discover and book appointments, and salons manage their business in one place.
 
-`Expo Router` `React Native` `TypeScript` `Supabase` `Stripe` `PostHog`
+**Web live; iOS coming soon to the App Store**
 
-[→ View Repository](https://github.com/sirmike6277-dot/tripcali)
+[primphub.com](https://primphub.com)
 
 </td>
 <td width="50%" valign="top">
 
-### 📦 OOH Media Pro
-**Full-stack SaaS ERP for Out-of-Home media agencies**
-Purchase orders, CRM, billboard inventory, invoicing, and multi-role approval workflows for outdoor advertising agencies. Real production metrics: **500+ billboards** and **$2M+ in revenue** tracked through the platform.
+#### OOHMedia Pro
+An ERP for out of home advertising agencies. Campaigns, site and inventory management, client records, invoicing and reporting, built around how outdoor agencies really work.
 
-`React` `Express` `Drizzle ORM` `Supabase` `PostgreSQL`
+**Demo available on request**
 
-*Private client project — details and a live walkthrough available on request.*
-
-</td>
-</tr>
-</table>
-
----
-
-## 💼 How I Can Help
-
-<table>
-<tr>
-<th width="33%">🏢 For Businesses</th>
-<th width="33%">🚀 For Founders</th>
-<th width="33%">👥 For Recruiters</th>
-</tr>
-<tr>
-<td valign="top">
-
-Build or modernize your digital products. I deliver **reliable, scalable systems** with clean handoff, documentation, and long-term maintainability in mind.
-
-</td>
-<td valign="top">
-
-From MVP to Series A — I help **ship fast without sacrificing quality**. Experienced shipping product, architecture, and infra decisions that scale.
-
-</td>
-<td valign="top">
-
-Open to **senior full-stack, mobile, and platform roles** at product-led companies. Remote-first preferred, global time zones welcome.
+[Request a demo](mailto:sirmike6277@gmail.com?subject=OOHMedia%20Pro%20demo)
 
 </td>
 </tr>
 </table>
 
----
+<br />
 
-## 📬 Let's Build Something Together
+### What I can build for your business
 
-<p align="center">
-  <em>Hiring, building, or exploring a collaboration? I'd love to hear from you.</em>
+| | |
+|:--|:--|
+| **AI automation** | Take repetitive admin off your team's plate, from lead handling to reporting. |
+| **Custom software** | Web and mobile apps designed around your process, not the other way round. |
+| **Business systems** | ERP, CRM and internal tools that replace scattered spreadsheets. |
+| **AI ads and UGC videos** | Presenter ads, product spots and UGC style reviews for social channels. |
+
+<br />
+
+### Tech stack
+
+<p>
+  <img src="https://img.shields.io/badge/Next.js-111118?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/React-111118?style=flat-square&logo=react&logoColor=white" alt="React" />
+  <img src="https://img.shields.io/badge/TypeScript-111118?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React_Native-111118?style=flat-square&logo=react&logoColor=white" alt="React Native" />
+  <img src="https://img.shields.io/badge/Expo-111118?style=flat-square&logo=expo&logoColor=white" alt="Expo" />
+  <img src="https://img.shields.io/badge/Node.js-111118?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express-111118?style=flat-square&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/Prisma-111118?style=flat-square&logo=prisma&logoColor=white" alt="Prisma" />
+  <img src="https://img.shields.io/badge/Drizzle_ORM-111118?style=flat-square&logo=drizzle&logoColor=white" alt="Drizzle ORM" />
+  <img src="https://img.shields.io/badge/Supabase-111118?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/PostgreSQL-111118?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-111118?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Vercel-111118?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
 </p>
 
-<p align="center">
-  <a href="mailto:sirmike6277@gmail.com">
-    <img src="https://img.shields.io/badge/📧_Start_a_conversation-6C5CE7?style=for-the-badge&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/ifeanyi-michael-n/">
-    <img src="https://img.shields.io/badge/💼_Connect_on_LinkedIn-00B4D8?style=for-the-badge&logoColor=white" alt="LinkedIn" />
-  </a>
+<br />
+
+### Certifications
+
+- **Marketing Analytics Foundation**, Meta via Coursera, 2025
+- **Introduction to Data Analytics**, Meta via Coursera, 2025
+- **Data Analysis with Spreadsheets and SQL**, Meta via Coursera, 2025
+
+### Education
+
+- **MSc Management**, University of Bedfordshire
+- **BSc Business Management**, Imo State University
+
+<br />
+
+### Let's work together
+
+Have a process you'd like to automate, a product idea, or a campaign that needs AI video? Send me a message and tell me what you're working on. I'll reply personally.
+
+<p>
+  <a href="https://linkmindhq.com"><b>linkmindhq.com</b></a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/ifeanyi-michael-n/"><b>LinkedIn</b></a> &nbsp;·&nbsp;
+  <a href="mailto:sirmike6277@gmail.com"><b>sirmike6277@gmail.com</b></a>
 </p>
 
-<p align="center">
-  <sub>⭐ If you like what you see, consider starring some of my projects — it means a lot.</sub>
-</p>
+<br />
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00B4D8,100:6C5CE7&height=120&section=footer" width="100%" alt="footer" />
+  <a href="https://linkmindhq.com"><img src="assets/linkmind-mark.png" width="44" alt="LinkMind" /></a>
 </p>
