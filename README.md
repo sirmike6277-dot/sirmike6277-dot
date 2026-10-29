@@ -47,6 +47,40 @@ An ERP for out of home advertising agencies. Campaigns, site and inventory manag
 
 <br />
 
+### See it in action
+
+#### PrimpHub
+
+<p align="center">
+  <a href="https://primphub.com"><img src="assets/primphub/primphub-demo.gif" width="100%" alt="PrimpHub demo: the primphub.com home page, the discover page for finding beauty professionals, and the three step booking guide" /></a>
+</p>
+
+<table>
+<tr>
+<td width="33%" align="center"><a href="assets/primphub/01-home.png"><img src="assets/primphub/01-home.png" alt="PrimpHub home page on the web, with the client app shown on laptop and phone" /></a><br /><sub>Home</sub></td>
+<td width="33%" align="center"><a href="assets/primphub/02-discover.png"><img src="assets/primphub/02-discover.png" alt="PrimpHub discover page with service categories and search. Professional listings are blurred for privacy" /></a><br /><sub>Discover and book</sub></td>
+<td width="33%" align="center"><a href="assets/primphub/03-how-it-works.png"><img src="assets/primphub/03-how-it-works.png" alt="PrimpHub how it works section: create an account, find and book, enjoy your service" /></a><br /><sub>How it works</sub></td>
+</tr>
+</table>
+
+#### OOHMedia Pro
+
+<p align="center">
+  <img src="assets/oohmediapro/oohmediapro-demo.gif" width="100%" alt="OOHMedia Pro demo with sample data: the agency dashboard, billboard inventory on a UK map, and the billboard assets grid" />
+</p>
+
+<table>
+<tr>
+<td width="33%" align="center"><a href="assets/oohmediapro/01-dashboard.png"><img src="assets/oohmediapro/01-dashboard.png" alt="OOHMedia Pro dashboard with purchase order approval tracking, using demo data" /></a><br /><sub>Dashboard and approvals</sub></td>
+<td width="33%" align="center"><a href="assets/oohmediapro/02-billboard-map.png"><img src="assets/oohmediapro/02-billboard-map.png" alt="OOHMedia Pro billboard inventory shown on a map of the UK, using demo data" /></a><br /><sub>Inventory map</sub></td>
+<td width="33%" align="center"><a href="assets/oohmediapro/03-billboard-assets.png"><img src="assets/oohmediapro/03-billboard-assets.png" alt="OOHMedia Pro billboard assets grid with site status, size and location, using demo data" /></a><br /><sub>Billboard assets</sub></td>
+</tr>
+</table>
+
+<sub>OOHMedia Pro screens show sample demo data, not real clients.</sub>
+
+<br />
+
 ### What I can build for your business
 
 | | |
